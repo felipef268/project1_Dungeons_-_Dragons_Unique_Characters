@@ -30,7 +30,7 @@ Análise de um dataset com mais de 60 mil fichas de personagens de D&D criadas p
 
 ## Estrutura do notebook
 
-O notebook (`Projeto_DnD_revisado.ipynb`) está organizado em 10 seções, cada uma com uma pergunta de negócio, o código de análise e uma visualização (gráfico de barras, heatmap, scatter plot, boxplot ou matriz de correlação, dependendo da pergunta).
+O notebook (`Projeto_Dungeons_&_Dragons_Unique_Characters.ipynb`) está organizado em 10 seções, cada uma com uma pergunta de negócio, o código de análise e uma visualização (gráfico de barras, heatmap, scatter plot, boxplot ou matriz de correlação, dependendo da pergunta).
 
 ## Tecnologias utilizadas
 
